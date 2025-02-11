@@ -1,2 +1,15 @@
 # ImportGacha-MiaoYunzai
-Import Miao-Yunzai(QQRobot)'s gacha records based on Python and requires exported files.
+
+因为GI的抽卡记录只能获取**一年**，而一些刚接触Yunzai的用户记录必定**不全**，这个程序用来转化从『提瓦特小助手』的抽卡记录到Yunzai的分文件
+
+## 使用说明
+> [!IMPORTANT]
+> 该程序可以且只能分析来自「提瓦特小助手」小程序内的云端抽卡记录，其他的抽卡记录在此不作保证能完整、正确地分析并导出！
+
+> [!WARNING]
+> 使用此程序导出的文件及数据，若出现数据丢失等情况，作者都不担责，请自己做好备份！
+
+### 获取抽卡记录
+1. 打开「提瓦特小助手」小程序
+
+...
